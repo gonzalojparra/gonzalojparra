@@ -3,6 +3,14 @@ I'm a Full Stack developer graduated from the [National University of Comahue](h
 
 <br/>
 
+<a href="https://www.linkedin.com/in/gonzalojparra/">
+<img align="left" alt="Gonzalo Parra LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+
+<br />
+
+<br />
+
 ## What I'm up to
 
 - ✨ I’m currently looking for my first developer role.
@@ -16,17 +24,6 @@ I'm a Full Stack developer graduated from the [National University of Comahue](h
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-
-<br />
-
-## Contact Me
-If you'd like to get in touch with me, you can find me on:
-<br />
-<br />
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalojparra/)
-<br />
-
-Feel free to reach me out for any questions or opportunities!
 
 ---
 
