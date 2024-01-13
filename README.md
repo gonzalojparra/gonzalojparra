@@ -1,5 +1,5 @@
 ## Hey! 👋 It's Gonzalo!
-I'm a Full Stack developer graduated from the [National University of Comahue](https://en.wikipedia.org/wiki/National_University_of_Comahue).
+I'm a Full Stack developer and a tech enthusiast graduated from the [National University of Comahue](https://en.wikipedia.org/wiki/National_University_of_Comahue). 
 
 <br/>
 
@@ -13,8 +13,8 @@ I'm a Full Stack developer graduated from the [National University of Comahue](h
 
 ## What I'm up to
 
-- ✨ I’m currently looking for my first developer role.
 - 🌱 I’m currently working with [React](https://reactjs.org) and [Next.js](https://nextjs.org/).
+- ✨ I’m looking for my first developer role.
 
 <br />
 
@@ -23,7 +23,8 @@ I'm a Full Stack developer graduated from the [National University of Comahue](h
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
+
 
 ---
 
