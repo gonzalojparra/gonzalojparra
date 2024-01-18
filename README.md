@@ -29,4 +29,4 @@ I'm a Full Stack developer and a tech enthusiast graduated from the [National Un
 
 ---
 
-![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalojparra&show_icons=true&hide_border=true&title_color=b211ff&text_color=FFFFFF&icon_color=b211ff&theme=dark)
+![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalojparra&show_icons=true&hide_border=true&title_color=70c8ff&text_color=FFFFFF&icon_color=70c8ff&theme=dark)
