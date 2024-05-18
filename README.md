@@ -1,5 +1,5 @@
 ## Hey! 👋 It's Gonzalo!
-I'm a Full Stack developer and a tech enthusiast graduated from the [National University of Comahue](https://en.wikipedia.org/wiki/National_University_of_Comahue). 
+I'm a Full Stack developer and a tech enthusiast graduated from the [Universidad Nacional del Comahue](https://en.wikipedia.org/wiki/National_University_of_Comahue). 
 
 <br/>
 
