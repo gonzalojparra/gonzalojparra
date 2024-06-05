@@ -1,10 +1,13 @@
 ## Hey! 👋 It's Gonzalo!
-I'm a Full Stack developer and a tech enthusiast graduated from the [Universidad Nacional del Comahue](https://en.wikipedia.org/wiki/National_University_of_Comahue). 
+I'm a front-end developer and a tech enthusiast graduated from the [Universidad Nacional del Comahue](https://es.wikipedia.org/wiki/Universidad_Nacional_del_Comahue). 
 
 <br/>
 
 <a href="https://www.linkedin.com/in/gonzalojparra/">
 <img align="left" alt="Gonzalo Parra LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://portfolio-gonzalojparra.vercel.app/">
+<img align="left" alt="Gonzalo Parra Portfolio" width="22px" src="https://icongr.am/fontawesome/chain-broken.svg?size=128&color=70c8ff" />
 </a>
 
 <br />
@@ -13,8 +16,8 @@ I'm a Full Stack developer and a tech enthusiast graduated from the [Universidad
 
 ## What I'm up to
 
-- 🌱 I’m currently working with [React](https://reactjs.org) and [Next.js](https://nextjs.org/).
-- ✨ I’m looking for my first developer role.
+- ✨ I’m currently working with [React](https://reactjs.org) and [Next.js](https://nextjs.org/).
+- 🚀 I’m looking for my first developer role.
 
 <br />
 
