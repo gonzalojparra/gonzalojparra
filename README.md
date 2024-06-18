@@ -1,1 +1,1 @@
-![image](https://raw.githubusercontent.com/gonzalojparra/gonzalojparra/main/header.jpg)
+![image](https://raw.githubusercontent.com/gonzalojparra/gonzalojparra/main/banner.png)
